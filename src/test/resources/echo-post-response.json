@@ -1,0 +1,9 @@
+{
+  "args":{
+    "foo": "abc",
+    "bar": "123"
+  },
+  "data":{
+    "message": "hello"
+  }
+}
