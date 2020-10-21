@@ -2,3 +2,12 @@
 postmanEcho:
   ribbon:
     listOfServers: https://postman-echo.com/
+
+spring:
+  application:
+    name: feignclient
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
