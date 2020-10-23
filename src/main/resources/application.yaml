@@ -1,7 +1,7 @@
 
-postmanEcho:
-  ribbon:
-    listOfServers: https://postman-echo.com/
+# postmanEcho:
+#   ribbon:
+#     listOfServers: https://postman-echo.com/
 
 spring:
   application:
